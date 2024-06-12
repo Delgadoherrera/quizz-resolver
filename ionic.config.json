@@ -1,0 +1,8 @@
+{
+  "name": "quizz-resolver",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "61c558cc"
+}
